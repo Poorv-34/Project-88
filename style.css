@@ -1,0 +1,19 @@
+.body_background
+{
+    background-position: center;
+    background-size: contain;
+    background:url(https://th.bing.com/th/id/OIP.mJHn88GZkyP6czKnHKpU3wHaEo?pid=ImgDet&rs=1);
+}
+#myCanvas
+{
+    border-width: 10px;
+    border-style: ridge;
+    background-color: forestgreen;
+}
+
+#hd3{
+    display: inline-block;
+    color: red;
+    background-color: aliceblue;
+    font-family: fantasy;
+}
